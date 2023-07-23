@@ -2,11 +2,10 @@
 
 This package is installed with:
 - Laravel 10.2 (✅)
-- Jetstream 3.2
-- Livewire 3.0@beta
 - Laravel Pint (✅)
 - Larastan
 - PestPHP
+- Laravel Debugbar
 
 
 ## Security Vulnerabilities
